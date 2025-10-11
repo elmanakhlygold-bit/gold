@@ -1,5 +1,6 @@
 {
-    "useOverride": false,
+    "useOverride": true,
     "goldPrice": null,
-    "exchangeRate": null
+    "exchangeRate": 50
+
 }

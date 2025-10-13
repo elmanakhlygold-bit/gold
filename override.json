@@ -1,16 +1,5 @@
 {
-    "useOverride": true,
-    "goldPrice": null,
-    "exchangeRate": 50
-
+  "useOverride": false,
+  "goldPrice": null,
+  "exchangeRate": 50
 }
-
-
-
-
-
-
-
-
-
-

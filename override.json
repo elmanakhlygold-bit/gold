@@ -2,5 +2,6 @@
   "useOverride": false,
   "goldPrice": null,
   "exchangeRate": 50,
+  "mobileBackgroundImageUrl": null,
   "websocketUrl": null
 }

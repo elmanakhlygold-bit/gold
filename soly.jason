@@ -1,0 +1,12 @@
+{
+  "useOverride": false,
+  "goldPrice": null,
+  "exchangeRate": null,
+  "BackgroundImageUrl": null,
+  "websocketUrl": null,
+  "adsense": {
+    "enabled": false,
+    "client": null,
+    "slot": null
+  }
+}

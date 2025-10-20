@@ -1,7 +1,7 @@
 {
-  "useOverride": false,
+  "useOverride": true,
   "goldPrice": null,
-  "exchangeRate": null,
+  "exchangeRate": 50,
   "BackgroundImageUrl": null,
   "websocketUrl": null,
   "adsense": {
